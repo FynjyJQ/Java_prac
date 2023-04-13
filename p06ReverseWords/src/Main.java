@@ -10,7 +10,7 @@ public class Main {
 
         Collections.reverse(Arrays.asList(splitArr));
 
-        for (String str : splitArr  ) {
+        for (String str : splitArr) {
             sb.append(str);
             sb.append(' ');
         }
